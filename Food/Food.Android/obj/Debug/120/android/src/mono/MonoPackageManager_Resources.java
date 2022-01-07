@@ -3,6 +3,10 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Food.Android.dll" comes first in this list. */
 		"Food.Android.dll",
+		"CarouselView.FormsPlugin.Abstractions.dll",
+		"CarouselView.FormsPlugin.Droid.dll",
+		"Com.Android.DeskClock.dll",
+		"Com.ViewPagerIndicator.dll",
 		"Food.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.AndroidX.Activity.dll",

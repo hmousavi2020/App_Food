@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fSRVD6pJbu/eE3kvCmrSDhIRKldHo0qQPHnYPHizuoPPswMqEA/RWs+KJ1VMkmG2qRhbc4vf80dZ59rafsxdPA==",
+  "dgSpecHash": "ckSc3neULFcNLj1fdigbIWKy5rhVa3rRFaiI3gy+3jZlTMsfq4eC48IQkBIG46O17dOt357quW4953kOfFKmQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hosseinq\\Desktop\\Remote\\App_Food\\Food\\Food\\Food.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Hosseinq\\.nuget\\packages\\carouselview.formsplugin\\6.0.0\\carouselview.formsplugin.6.0.0.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

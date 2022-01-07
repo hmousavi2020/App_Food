@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QzMxy/EBfIw7N0h1dGmKINljWOid2lE6/GN0aTdns/eJrUmxa179518xrvwBpZjLJmsYdZ+X5asmzRErKYJplQ==",
+  "dgSpecHash": "Nhjh8XNI1eVxkHdKnOTWRu/kIX3yQFzEG9t01Mur+N8gryserWRY9pwR6NJGPkHH5UHqlIFS0LzUZOXyqLVEAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hosseinq\\Desktop\\Remote\\App_Food\\Food\\Food.Android\\Food.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Hosseinq\\.nuget\\packages\\carouselview.formsplugin\\6.0.0\\carouselview.formsplugin.6.0.0.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hosseinq\\.nuget\\packages\\xamarin.android.circlepageindicator\\1.1.1\\xamarin.android.circlepageindicator.1.1.1.nupkg.sha512",
+    "C:\\Users\\Hosseinq\\.nuget\\packages\\xamarin.android.verticalviewpager\\1.1.2\\xamarin.android.verticalviewpager.1.1.2.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\Hosseinq\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

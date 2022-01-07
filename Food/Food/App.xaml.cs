@@ -1,4 +1,5 @@
-﻿using Food.Services;
+﻿using Food;
+using Food.Services;
 using Food.Views;
 using System;
 using Xamarin.Forms;

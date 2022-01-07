@@ -18,3 +18,7 @@ C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Xam
 C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Food.dll
 C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\ref\Food.dll
 C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Food.pdb
+C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Views\CollectionPage.xaml.g.cs
+C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Views\ExplorePage.xaml.g.cs
+C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Hosseinq\Desktop\Remote\App_Food\Food\Food\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
