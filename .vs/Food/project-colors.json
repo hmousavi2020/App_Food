@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b754e68-edd9-4099-a78d-6f2d925eefdf": {
+      "ProjectGuid": "0b754e68-edd9-4099-a78d-6f2d925eefdf",
+      "DisplayName": "Food",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
